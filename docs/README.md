@@ -1,9 +1,8 @@
 # Autonomous Systems
-
-## Real-Time Path Planning with RRT* and Dynamic Obstacles
 This project implements the RRT* (Rapidly-exploring Random Tree Star) algorithm for real-time path planning in both 2D and 3D environments with dynamic obstacles. The RRT* algorithm is known for its ability to efficiently explore large search spaces and optimize the path to the goal over time, making it well-suited for autonomous navigation, drones, and robotics applications.
 
 ## Features:
+Real-Time Path Planning with RRT* and Dynamic Obstacles
 - A 2D and 3D environment with static and dynamic obstacles.
 - RRT* algorithm for real-time path planning.
 - Dynamic obstacle avoidance by continuous replanning.
