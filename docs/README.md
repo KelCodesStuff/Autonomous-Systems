@@ -25,7 +25,7 @@ The 3D environment is more complex, featuring dynamic obstacles that move with p
 - Path Planning: RRT* generates a path and replans at each time step to avoid moving obstacles.
 - Visualization: The 3D environment and the dynamic obstacles are visualized using Matplotlib's 3D plotting features. Obstacles are shown as semi-transparent cuboids, and the path is updated in real time.
 
-#### Running the 2D Simulation
+## Running the 2D Simulation
 To run the 2D simulation where RRT* finds a path through a static environment with rectangular obstacles, use the following command:
 ```bash
 python main_2d.py
